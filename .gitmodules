@@ -1,3 +1,8 @@
 [submodule "external/another_repo"]
 	path = external/another_repo
 	url = https://github.com/kowsick1/submodule.git
+	branch = version_myproject1
+[submodule "components/lib"]
+	path = components/lib
+	url = https://github.com/kowsick1/submodule.git
+	branch = version_myproject2
