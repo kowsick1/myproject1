@@ -1,0 +1,3 @@
+[submodule "external/another_repo"]
+	path = external/another_repo
+	url = https://github.com/kowsick1/submodule.git
