@@ -2,3 +2,9 @@
 This is the working project using the submodule repo 
 Added with feature B
 ADDED with feature C
+
+
+
+ADDED with feature F
+
+ADDED with Feature G
